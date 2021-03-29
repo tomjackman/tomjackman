@@ -1,1 +1,3 @@
 ![TOM's github stats](https://github-readme-stats.vercel.app/api?username=TOMJACKMAN&count_private=true&show_icons=true&theme=light)
+
+<img src="https://shields.io/badge/Automotive-Tinkering-red?logo=github-sponsors&logoWidth=40&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=EB001E&amp;color=black"> <img src="https://shields.io/badge/Quality-Engineering-red?logo=github-sponsors&logoWidth=40&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=30378d&amp;color=black"> <img src="https://shields.io/badge/Security-Testing-red?logo=github-sponsors&logoWidth=40&amp;logoColor=black&amp;style=for-the-badge&amp;labelColor=ffd600&amp;color=black">
